@@ -38,8 +38,16 @@ Code: [GitHub](https://github.com/Brejesh-5784/Medical_chatBot-main)
 
 ## 🧰 Key Skills & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,javascript,fastapi,langchain,huggingface,groq,llamaindex,vector-db,docker,mlflow,githubactions,scikit-learn,xgboost,tensorflow,pytorch,opencv,pandas,numpy,postgresql,mongodb,netlify,render,git&theme=dark" width="40" alt="skills icons" />
+  <a href="https://skillicons.dev">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,javascript,fastapi,git,githubactions,docker,xgboost,tensorflow,pytorch,opencv,pandas,numpy,postgresql,mongodb&theme=dark&perline=12" width="600" alt="Skills Icons" /> </p>
+  </a>
 </p>
+
+
+
+
+
 
 **Highlighted Skills:**  
 Python · React · FastAPI · LangChain · Groq LLaMA 3.3 · RAG Pipelines · Prompt Engineering · Vector Databases (FAISS/Pinecone) · CI/CD · Cloud Deployments (Netlify, Render) · XGBoost · SHAP · Docker · MLOps
@@ -73,4 +81,3 @@ Email • vdbrejesh@gmail.com
 
 ---
 
-<p align="center">Made with ❤️ by Brejesh V.D.</p>
